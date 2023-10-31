@@ -1,14 +1,14 @@
 
-st1='E:\College\IP\HED Metric Evaluations\Results-for-IP-Models\TransUNET_GT';
+st1='E:\Desktop\CoSkel_Matlab_Codes\TransUNET_GT';
 
-st3='E:\College\IP\HED Metric Evaluations\Results-for-IP-Models\all-coskel-models-2';
+st3='E:\Desktop\CoSkel_Matlab_Codes\Results\tnet-sa-b4-alph5-cl2-gamma0-2-v57-58\save_gts';
 
 addpath(st1)
 addpath(st3) 
 
 numRows = numel(dr) - 2;
 finalRes = cell(numRows, 8);
-
+disp("tnet-sa-b4-alph5-cl2-gamma0-2-v57-58")
 dr=dir([st3]);
 for i=3:numel(dr)
     st2=fullfile(st3, dr(i).name);
