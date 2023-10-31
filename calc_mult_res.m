@@ -6,6 +6,7 @@ st3='E:\Desktop\CoSkel_Matlab_Codes\Results\tnet-sa-b4-alph5-cl2-gamma0-2-v57-58
 addpath(st1)
 addpath(st3) 
 
+dr=dir([st3]);
 numRows = numel(dr) - 2;
 finalRes = cell(numRows, 8);
 disp("tnet-sa-b4-alph5-cl2-gamma0-2-v57-58")
