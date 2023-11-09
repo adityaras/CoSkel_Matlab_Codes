@@ -2,3 +2,5 @@ Model,F0,F1,F2,F3,F4,F5,JS
 "VGG Based Model With Dice Loss and Weighted Cross Entropy Loss [70 Epochs]",0.25733,0.5405,0.6626,0.7343,0.78535,0.80648,0.1486
 "TransUNet + Selective Attention + Weighted Cross Entropy Loss (Beta 1) + Dice Loss (Alpha 5) + NO MSE LOSS (Gamma 0) [22 Epochs]",0.30649,0.56631,0.65917,0.71177,0.75513,0.77499,0.18307
 "TransUNet + Selective Attention + Weighted Cross Entropy Loss (Beta 1) + Dice Loss (Alpha 5) + MSE LOSS (Gamma 0.02) [28 Epochs]",0.27661,0.52557,0.62454,0.68546,0.73621,0.75994,0.16204
+"TransUNet + No Selective Attention + Weighted Cross Entropy Loss (Beta 1) + Dice Loss (Alpha 5) + NO MSE LOSS (GAMMA 0) [3rd Epoch]",0.29452,0.54675,0.64099,0.69796,0.7441,0.768,0.1747
+"TransUNet + No Selective Attention + Weighted Cross Entropy Loss (Beta 1) + Dice Loss (Alpha 5) + MSE LOSS (Gamma 0.02) [29 Epochs]",0.28655,0.54904,0.65072,0.71155,0.75952,0.78098,0.16882
