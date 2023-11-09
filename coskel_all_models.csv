@@ -1,4 +1,4 @@
 Model,F0,F1,F2,F3,F4,F5,JS
-"VGG Based Model With Dice Loss and Weighted Cross Entropy Loss",0.25733,0.5405,0.6626,0.7343,0.78535,0.80648,0.1486
+"VGG Based Model With Dice Loss and Weighted Cross Entropy Loss [70 Epochs]",0.25733,0.5405,0.6626,0.7343,0.78535,0.80648,0.1486
 "TransUNet + Selective Attention (Alpha 5) + NO MSE (Gamma 0) [22 Epochs]",0.30649,0.56631,0.65917,0.71177,0.75513,0.77499,0.18307
 "TransUNet + Selective Attention (Alpha 5) + MSE (Gamma 0.02) [28 Epochs]",0.27661,0.52557,0.62454,0.68546,0.73621,0.75994,0.16204
