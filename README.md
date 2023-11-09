@@ -29,3 +29,8 @@ TransUNET GT
 ```
 
 These dirs contain Preds and GTs Only GTs are Tracked in Git History, All preds are locally saved.
+
+
+Model Diagram
+
+![image](https://github.com/adityaras/CoSkel_Matlab_Codes/assets/53825123/22fa9f6e-5334-4727-8acc-b8bd63043475)
