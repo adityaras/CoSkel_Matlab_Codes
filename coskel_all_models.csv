@@ -1,6 +1,4 @@
-﻿Model,F0,F1,F2,F3,F4,F5,JS
-TransUNet-SelectiveAttention-batch4-doublechannel-class2-alpha5-epoch21.pth,0.27356,0.48966,0.56932,0.61826,0.65969,0.68012,0.16082
-TransUNet-SelectiveAttention-batch4-doublechannel-class2-alpha5-msegamma2-epoch15.pth,0.21308,0.44102,0.54584,0.61687,0.68027,0.71108,0.11989
-TransUNet-SelectiveAttention-batch4-doublechannel-class2-alpha5-msegamma2-epoch7.pth,0.0043157,0.0081971,0.010329,0.01232,0.014523,0.016369,0.0027154
-TransUNet-SelectiveAttention-batch4-doublechannel-class2-alpha5-msegammaNot02-epoch15.pth,0.27667,0.52966,0.63366,0.69823,0.74825,0.77116,0.16208
-TransUNet-SelectiveAttention-batch4-doublechannel-class2-alpha5-msegammaNot02-epoch31.pth,0.27795,0.53698,0.64166,0.70545,0.75612,0.77975,0.16336
+Model,F0,F1,F2,F3,F4,F5,JS
+"VGG Based Model With Dice Loss and Weighted Cross Entropy Loss",0.25733,0.5405,0.6626,0.7343,0.78535,0.80648,0.1486
+"TransUNet + Selective Attention (Alpha 5) + NO MSE (Gamma 0) [22 Epochs]",0.30649,0.56631,0.65917,0.71177,0.75513,0.77499,0.18307
+"TransUNet + Selective Attention (Alpha 5) + MSE (Gamma 0.02) [28 Epochs]",0.27661,0.52557,0.62454,0.68546,0.73621,0.75994,0.16204
